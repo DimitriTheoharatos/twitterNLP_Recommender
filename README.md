@@ -56,7 +56,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 #### Data:
 
- * twitter (twitter.com)
+ * [twitter](twitter.com) 
  
 
 
